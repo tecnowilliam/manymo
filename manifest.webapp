@@ -1,0 +1,27 @@
+{
+	"version"       : "1.0",
+	"name"          : "Manymo",
+	"description"   : "Quick starting, lightweight in-browser Android emulators for embedding apps in websites, development, collaboration, automated testing and QA. All rights reserved to Manymo: https://www.manymo.com/",
+	"launch_path"   : "/index.html",
+	"icons": {
+		"16" : "/images/icons/mortar-16.png",
+		"48" : "/images/icons/mortar-48.png",
+        "60" : "/images/icons/mortar-60.png",
+		"128": "/images/icons/mortar-128.png"
+	},
+	"developer": {
+		"name": "William Vargas",
+		"url" : "https://twitter.com/tecnowilliam"
+	},
+	"installs_allowed_from": ["*"],
+	"locales": {
+		"es": {
+			"description": "Emulador Android, rápido y ligero para tu navegador web, te permite agregar apks de android en páginas web, desarrollo, colaboración, pruebas automatizadas y control de calidad. Todos los derechos reservados a Manymo: https://www.manymo.com/",
+			"developer"  : {
+    			"name" : "William Vargas",
+				"url"  : "https://twitter.com/tecnowilliam"
+			}
+		}
+	},
+	"default_locale": "en"
+}
